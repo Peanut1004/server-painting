@@ -1,0 +1,206 @@
+{
+  "users": [
+    {
+      "name": "nhat",
+      "email": "nhat@gmail.com",
+      "password": "$2a$10$9V./RrIhrb.9uKj8ZGfXLen7uEBPcG7hNjIQDywOdUnVLMa2lhnO2",
+      "phone": "0399642493",
+      "region": "Đà Nẵng",
+      "birthday": "2021-06-23",
+      "gender": "Nam",
+      "id": 3
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$HSJFMQ2CrCN6ovvYCOAVC.rD3USGgvERhGYglSUY.uIWXIrYl6QtS",
+      "name": "admin",
+      "phone": "0399642493",
+      "region": "Đà Nẵng",
+      "birthday": "2021-06-29",
+      "gender": "Nam",
+      "id": 4
+    }
+  ],
+  "slides": [
+    {
+      "id": 1,
+      "image": "https://galaxycine.vn/media/2020/9/15/2_1600174573834.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://galaxycine.vn/media/2020/9/21/banner-2048x682_1600679436170.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://galaxycine.vn/media/2020/9/9/banner-2048x682_1599634539410.jpg"
+    }
+  ],
+  "products": [
+    {
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/z0-300x300.png",
+      "name": "Sơn Nội Thất 11",
+      "categories": "furniture",
+      "oldPrice": "Liên hệ",
+      "newPrice": "Liên hệ",
+      "ratings": 5,
+      "id": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 2,
+      "name": "Sơn Ngoại Thất 1",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/z5-300x300.png",
+      "oldPrice": "Liên hệ",
+      "categories": "exterior",
+      "newPrice": "Liên hệ",
+      "ratings": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 3,
+      "name": "Sơn Nội Thất 3",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/z6-300x300.png",
+      "oldPrice": "Liên hệ",
+      "categories": "furniture",
+      "newPrice": "Liên hệ",
+      "ratings": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 4,
+      "name": "Sơn Ngoại Thất 4",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/z4-300x300.png",
+      "oldPrice": "Liên hệ",
+      "categories": "exterior",
+      "newPrice": "Liên hệ",
+      "ratings": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 5,
+      "name": "Sơn Nội Thất 5",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/z8-300x300.png",
+      "oldPrice": "Liên hệ",
+      "categories": "furniture",
+      "newPrice": "Liên hệ",
+      "ratings": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 6,
+      "name": "Sơn Ngoại Thất 6",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/z3-300x300.png",
+      "oldPrice": "Liên hệ",
+      "categories": "exterior",
+      "newPrice": "Liên hệ",
+      "ratings": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 7,
+      "name": "Sơn Nội Thất 7",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/z6-300x300.png",
+      "oldPrice": "Liên hệ",
+      "categories": "furniture",
+      "newPrice": "Liên hệ",
+      "ratings": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 8,
+      "name": "Sơn Ngoại Thất 8",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/z1-300x300.png",
+      "oldPrice": "Liên hệ",
+      "categories": "exterior",
+      "newPrice": "Liên hệ",
+      "ratings": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 9,
+      "name": "Bột trét 1",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/BOT-DACKIM_TRONG.png",
+      "oldPrice": "Liên hệ",
+      "categories": "putty",
+      "newPrice": "Liên hệ",
+      "ratings": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 10,
+      "name": "Bột trét 2",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/Bot-Yotis-ngoai-that.png",
+      "oldPrice": "Liên hệ",
+      "categories": "putty",
+      "newPrice": "Liên hệ",
+      "ratings": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 11,
+      "name": "Bột trét 3",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/Bot-Yotis-noi-that.png",
+      "oldPrice": "Liên hệ",
+      "categories": "putty",
+      "newPrice": "Liên hệ",
+      "ratings": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 12,
+      "name": "Bột trét 4",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/OrneQualitee.png",
+      "oldPrice": "Liên hệ",
+      "categories": "putty",
+      "newPrice": "Liên hệ",
+      "ratings": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    }
+  ],
+  "worksDones": [
+    {
+      "id": 1,
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/efbad6a4868964d73d98-401x535-1.jpg",
+      "name": "Công trình thực hiện 01",
+      "price": "Liên hệ"
+    },
+    {
+      "id": 2,
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/efbad6a4868964d73d98-401x535-1.jpg",
+      "name": "Công trình thực hiện 02",
+      "price": "Liên hệ"
+    },
+    {
+      "id": 3,
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/efbad6a4868964d73d98-401x535-1.jpg",
+      "name": "Công trình thực hiện 03",
+      "price": "Liên hệ"
+    },
+    {
+      "id": 4,
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/efbad6a4868964d73d98-401x535-1.jpg",
+      "name": "Công trình thực hiện 04",
+      "price": "Liên hệ"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/son-lot-la-gi.jpeg",
+      "name": "Lưu ý khi chọn sơn lót cho công trình",
+      "content": "Trong trang trí nhà cửa, công trình, sơn lót.Trong trang trí nhà cửa, công trình, sơn lót"
+    },
+    {
+      "id": 2,
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/draw-wall1-1.jpg",
+      "name": "Ưu điểm của các dòng sơn Orné",
+      "content": "Sơn Orné của Đại Lý Phân Phối Sơn Pháp Cao Cấp, Sơn Orné của Đại Lý Phân Phối Sơn Pháp Cao Cấp"
+    },
+    {
+      "id": 3,
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/anh-1-3428-1452567424.png",
+      "name": "Trải nghiệm sơn Orné công nghệ Pháp",
+      "content": "Trong trang trí nhà cửa, công trình, sơn lót luôn được lựa chọn cẩn thận bởi nó quyết định đến sự bám dính cho bề mặt cũng như độ bền bỉ và tính thẩm mỹ cho lớp sơn phủ.Việc giữ cho lớp sơn tường luôn bóng đẹp, bền màu trước tác động từ thời tiết và môi trường là mối quan tâm của nhiều gia đình, chủ thầu công trình. Vì vậy, việc lựa chọn loại sơn lót thích hợp với sơn phủ sẽ tạo nên “chiếc áo” tốt giúp bảo vệ và giúp công trình bền vững.Lưu ý đầu tiên khi lựa chọn sơn lót là phải có tác dụng kháng kiềm. Kiềm chính là “kẻ xấu”, làm hư hại và bong tróc các lớp sơn phủ. Việc lựa chọn lớp sơn lót kháng kiềm giúp tránh được những sự cố kiềm hóa của bề mặt sơn, giữ nguyên màu sắc và độ sáng bóng vốn có của sơn phủ, giúp cho diện mạo công trình luôn đẹp như lúc mới sơn.Ngoài ra, lớp sơn lót cần phải đảm bảo tạo ra sự kết dính vững chắc giữa bề mặt sử dụng và lớp sơn phủ để làm nền tảng và giúp lớp sơn phủ lên màu đẹp, sáng hơn. Đối với khí hậu nhiệt đới như Việt Nam, lớp sơn lót cần chống lại sự tấn công của vi khuẩn, nấm mốc, rong rêu… Lựa chọn những loại sơn lót có khả năng “chế ngự” được các loại vi khuẩn sẽ giúp cho bức tường nhà bạn luôn sạch bóng, không phải lo sợ về sự xâm nhập và phát triển của nấm mốc.Tại Việt Nam, sơn lót Orné do Đại Lý Phân Phối Sơn Pháp Cao Cấp Đông Thịnh sản xuất là một trong những sản phẩm đáp ứng được các tính năng trên và được đông đảo người tiêu dùng ưa chuộng. Sơn lót Orné sealer kháng kiềm được dùng cho bề mặt tường trong các công trình, bề mặt chưa sơn hoặc đã sơn. Sơn được sản xuất dựa trên công nghệ tiên tiến của Pháp, phù hợp với đặc điểm khí hậu phức tạp của Việt Nam. Sản phẩm có tính kháng kiềm nổi trội, đảm bảo cho bề mặt sơn luôn bền vững và lớp sơn phủ sáng đẹp.Bên cạnh đó, sức “chịu đựng” không khí ẩm và khả năng chống lại nấm mốc mạnh mẽ cũng giúp bề mặt của toàn bộ lớp sơn luôn mịn màng, bóng bẩy và quyến rũ. Thành phần sơn được tăng cường phụ gia để xử lý triệt để hiện tượng cacbon hóa. Hơn nữa, mùi thơm dịu nhẹ, thanh thoát đặc trưng của loại sơn này còn giúp cho chúng ta cảm thấy dễ chịu và thoải mái mà không cần lo khử mùi sơn.Nhờ tính năng kháng kiềm nổi bật, sơn lót Orné sealer được sử dụng để tô điểm cho hàng trăm nghìn công trình. Công nghệ Pháp có trong sơn Orné giúp lớp sơn chống lại những tác động xấu của thời tiết, bảo vệ và giúp công trình luôn vững bền, trường tồn cùng thời gian."
+    }
+  ]
+}
