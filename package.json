@@ -4,12 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json -m ./node_modules/json-server-auth --port 4000"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "json-server": "^0.16.3",
-    "json-server-auth": "^2.0.2"
+  "dependencies": {
+    "json-server": "^0.16.3"
   }
 }
