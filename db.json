@@ -37,8 +37,8 @@
   ],
   "products": [
     {
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
-      "name": "Sơn Nội Thất 11",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina4125-2236.jpg",
+      "name": "Sơn nội thất ORNÉ PLUS",
       "categories": "furniture",
       "oldPrice": "Liên hệ",
       "newPrice": "Liên hệ",
@@ -48,18 +48,18 @@
     },
     {
       "id": 2,
-      "name": "Sơn Ngoại Thất 1",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn nội thất ORNÉ PLUS SATIN",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina8464-477.jpg",
       "oldPrice": "Liên hệ",
-      "categories": "exterior",
+      "categories": "furniture",
       "newPrice": "Liên hệ",
-      "ratings": 2,
+      "ratings": 4,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
     },
     {
       "id": 3,
-      "name": "Sơn Nội Thất 3",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn nội thất YOTIS INTERIOR",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina8419-3195.jpg",
       "oldPrice": "Liên hệ",
       "categories": "furniture",
       "newPrice": "Liên hệ",
@@ -68,78 +68,78 @@
     },
     {
       "id": 4,
-      "name": "Sơn Ngoại Thất 4",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn nội thất ORNÉ PREMIUM INTERIOR",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina8461-6072.jpg",
       "oldPrice": "Liên hệ",
-      "categories": "exterior",
+      "categories": "furniture",
       "newPrice": "Liên hệ",
-      "ratings": 3,
+      "ratings": 4,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
     },
     {
       "id": 5,
-      "name": "Sơn Nội Thất 5",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn nội thất ORNÉ MAX",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina8413-9528.jpg",
       "oldPrice": "Liên hệ",
       "categories": "furniture",
       "newPrice": "Liên hệ",
-      "ratings": 3,
+      "ratings": 4,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
     },
     {
       "id": 6,
-      "name": "Sơn Ngoại Thất 6",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn ngoại thất ORNÉ XP",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina8459-7243.jpg",
       "oldPrice": "Liên hệ",
       "categories": "exterior",
       "newPrice": "Liên hệ",
-      "ratings": 3,
+      "ratings": 4,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
     },
     {
       "id": 7,
-      "name": "Sơn Nội Thất 7",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn ngoại thất ORNÉ XP SATIN",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina8449-8856.jpg",
       "oldPrice": "Liên hệ",
-      "categories": "furniture",
+      "categories": "exterior",
       "newPrice": "Liên hệ",
-      "ratings": 3,
+      "ratings": 4,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
     },
     {
       "id": 8,
-      "name": "Sơn Ngoại Thất 8",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn ngoại thất YOTIS EXTERIOR",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina8420-9831.jpg",
       "oldPrice": "Liên hệ",
       "categories": "exterior",
       "newPrice": "Liên hệ",
-      "ratings": 3,
+      "ratings": 4,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
     },
     {
       "id": 9,
-      "name": "Bột trét 1",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn ngoại thất ORNÉ PREMIUM EXTERIOR",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina4840-3381.jpg",
       "oldPrice": "Liên hệ",
-      "categories": "putty",
+      "categories": "exterior",
       "newPrice": "Liên hệ",
       "ratings": 5,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
     },
     {
       "id": 10,
-      "name": "Bột trét 2",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Sơn ngoại thất ORNÉ RS",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/hina8417-7729.jpg",
       "oldPrice": "Liên hệ",
-      "categories": "putty",
+      "categories": "exterior",
       "newPrice": "Liên hệ",
       "ratings": 5,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
     },
     {
       "id": 11,
-      "name": "Bột trét 3",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Bộ Trét YOTIS Ngoại Thất",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/bottrettuong03-4850.png",
       "oldPrice": "Liên hệ",
       "categories": "putty",
       "newPrice": "Liên hệ",
@@ -148,8 +148,38 @@
     },
     {
       "id": 12,
-      "name": "Bột trét 4",
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "name": "Bột trét ngoại thất D’ACKIM",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/bottrettuong01-4038.png",
+      "oldPrice": "Liên hệ",
+      "categories": "putty",
+      "newPrice": "Liên hệ",
+      "ratings": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 13,
+      "name": "Bột trét nội thất D’ACKIM",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/bottrettuong02-598.png",
+      "oldPrice": "Liên hệ",
+      "categories": "putty",
+      "newPrice": "Liên hệ",
+      "ratings": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 14,
+      "name": "Bộ Trét YOTIS Nội Thất",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/bottrettuong04-8315.png",
+      "oldPrice": "Liên hệ",
+      "categories": "putty",
+      "newPrice": "Liên hệ",
+      "ratings": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere metus vitae arcu imperdiet, id aliquet ante scelerisque. Sed sit amet sem vitae urna fringilla tempus. Maecenas suscipit dui nec nisl laoreet eleifend"
+    },
+    {
+      "id": 15,
+      "name": "Bột trét ORNÉ Premium",
+      "image": "https://sonphapvn.com/thumb/200x200/2/upload/product/bottrettuong05-4631.png",
       "oldPrice": "Liên hệ",
       "categories": "putty",
       "newPrice": "Liên hệ",
@@ -160,25 +190,25 @@
   "worksDones": [
     {
       "id": 1,
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/efbad6a4868964d73d98-401x535-1.jpg",
       "name": "Công trình thực hiện 01",
       "price": "Liên hệ"
     },
     {
       "id": 2,
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/efbad6a4868964d73d98-401x535-1.jpg",
       "name": "Công trình thực hiện 02",
       "price": "Liên hệ"
     },
     {
       "id": 3,
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/efbad6a4868964d73d98-401x535-1.jpg",
       "name": "Công trình thực hiện 03",
       "price": "Liên hệ"
     },
     {
       "id": 4,
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/efbad6a4868964d73d98-401x535-1.jpg",
       "name": "Công trình thực hiện 04",
       "price": "Liên hệ"
     }
@@ -186,21 +216,24 @@
   "blogs": [
     {
       "id": 1,
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/son-lot-la-gi.jpeg",
       "name": "Lưu ý khi chọn sơn lót cho công trình",
-      "content": "Trong trang trí nhà cửa, công trình, sơn lót.Trong trang trí nhà cửa, công trình, sơn lót"
+      "date": "2022-06-23",
+      "content": "Sơn Orné của Đại Lý Phân Phối Sơn Pháp Cao Cấp. Trong trang trí nhà cửa, công trình, sơn lót"
     },
     {
       "id": 2,
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/draw-wall1-1.jpg",
       "name": "Ưu điểm của các dòng sơn Orné",
-      "content": "Sơn Orné của Đại Lý Phân Phối Sơn Pháp Cao Cấp, Sơn Orné của Đại Lý Phân Phối Sơn Pháp Cao Cấp"
+      "date": "2022-06-23",
+      "content": "Sơn Orné của Đại Lý Phân Phối Sơn Pháp Cao Cấp. Trong trang trí nhà cửa, công trình, sơn lót"
     },
     {
       "id": 3,
-      "image": "https://pic.trangvangvietnam.com/pics_low/19865/orne-rs-5l.jpg",
+      "image": "http://ornedongthinh.com/wp-content/uploads/2021/01/anh-1-3428-1452567424.png",
       "name": "Trải nghiệm sơn Orné công nghệ Pháp",
-      "content": "Trong trang trí nhà cửa, công trình, sơn lót luôn được lựa chọn cẩn thận bởi nó quyết định đến sự bám dính cho bề mặt cũng như độ bền bỉ và tính thẩm mỹ cho lớp sơn phủ.Việc giữ cho lớp sơn tường luôn bóng đẹp, bền màu trước tác động từ thời tiết và môi trường là mối quan tâm của nhiều gia đình, chủ thầu công trình. Vì vậy, việc lựa chọn loại sơn lót thích hợp với sơn phủ sẽ tạo nên “chiếc áo” tốt giúp bảo vệ và giúp công trình bền vững.Lưu ý đầu tiên khi lựa chọn sơn lót là phải có tác dụng kháng kiềm. Kiềm chính là “kẻ xấu”, làm hư hại và bong tróc các lớp sơn phủ. Việc lựa chọn lớp sơn lót kháng kiềm giúp tránh được những sự cố kiềm hóa của bề mặt sơn, giữ nguyên màu sắc và độ sáng bóng vốn có của sơn phủ, giúp cho diện mạo công trình luôn đẹp như lúc mới sơn.Ngoài ra, lớp sơn lót cần phải đảm bảo tạo ra sự kết dính vững chắc giữa bề mặt sử dụng và lớp sơn phủ để làm nền tảng và giúp lớp sơn phủ lên màu đẹp, sáng hơn. Đối với khí hậu nhiệt đới như Việt Nam, lớp sơn lót cần chống lại sự tấn công của vi khuẩn, nấm mốc, rong rêu… Lựa chọn những loại sơn lót có khả năng “chế ngự” được các loại vi khuẩn sẽ giúp cho bức tường nhà bạn luôn sạch bóng, không phải lo sợ về sự xâm nhập và phát triển của nấm mốc.Tại Việt Nam, sơn lót Orné do Đại Lý Phân Phối Sơn Pháp Cao Cấp Đông Thịnh sản xuất là một trong những sản phẩm đáp ứng được các tính năng trên và được đông đảo người tiêu dùng ưa chuộng. Sơn lót Orné sealer kháng kiềm được dùng cho bề mặt tường trong các công trình, bề mặt chưa sơn hoặc đã sơn. Sơn được sản xuất dựa trên công nghệ tiên tiến của Pháp, phù hợp với đặc điểm khí hậu phức tạp của Việt Nam. Sản phẩm có tính kháng kiềm nổi trội, đảm bảo cho bề mặt sơn luôn bền vững và lớp sơn phủ sáng đẹp.Bên cạnh đó, sức “chịu đựng” không khí ẩm và khả năng chống lại nấm mốc mạnh mẽ cũng giúp bề mặt của toàn bộ lớp sơn luôn mịn màng, bóng bẩy và quyến rũ. Thành phần sơn được tăng cường phụ gia để xử lý triệt để hiện tượng cacbon hóa. Hơn nữa, mùi thơm dịu nhẹ, thanh thoát đặc trưng của loại sơn này còn giúp cho chúng ta cảm thấy dễ chịu và thoải mái mà không cần lo khử mùi sơn.Nhờ tính năng kháng kiềm nổi bật, sơn lót Orné sealer được sử dụng để tô điểm cho hàng trăm nghìn công trình. Công nghệ Pháp có trong sơn Orné giúp lớp sơn chống lại những tác động xấu của thời tiết, bảo vệ và giúp công trình luôn vững bền, trường tồn cùng thời gian."
+      "date": "2022-06-23",
+      "content": "Sơn Orné của Đại Lý Phân Phối Sơn Pháp Cao Cấp. Trong trang trí nhà cửa, công trình, sơn lót"
     }
   ]
 }
