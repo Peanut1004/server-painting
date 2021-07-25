@@ -10,3 +10,9 @@ server.use(router);
 server.listen(3000, () => {
   console.log('JSON Server is running');
 });
+
+// jwt
+const express = require('express');
+const app = express();
+const bodyParser = require('body-parser');
+const port = process.env.PORT || 3200;
